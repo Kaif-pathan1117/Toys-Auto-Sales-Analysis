@@ -20,7 +20,7 @@ This dashboard provides a comprehensive analysis of toy auto sales using interac
 
 - Customer Insights: A few top customers contribute most revenue, making loyalty programs & personalized offers crucial for retention.
 
-  ## Additional Insights:
+ ## Additional Insights:
   - Seasonal Sales Trends: Sales peak in April and July, suggesting a need for seasonal marketing campaigns and inventory optimization.
 
   - Customer Concentration: A small group of top customers drives a large share of revenue—targeted offers can increase retention and lifetime value.
