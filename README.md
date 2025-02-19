@@ -1,5 +1,5 @@
 # Toys-Auto-Sales-Analysis-Dashboard
-<img src="./Toys.png"/>&nbsp;
+<img src="./TOYS.png"/>&nbsp;
 
 ## Overview : 
 This dashboard provides a comprehensive analysis of toy auto sales using interactive visualizations and key performance metrics. It allows users to explore sales trends, customer behavior, and market performance using various filters.
