@@ -32,4 +32,4 @@ This dashboard provides a comprehensive analysis of toy auto sales using interac
   - Operational Efficiency: While most orders are shipped successfully, a small percentage of cancellations & disputes suggests a need for process improvements in logistics and customer service.
  
   ## Dashboard :
-  <img src="./Toys Dash.png" width="3000" height="600"/>&nbsp;
+  <img src="./Toy Dash.png" width="3000" height="600"/>&nbsp;
