@@ -30,6 +30,10 @@ This dashboard provides a comprehensive analysis of toy auto sales using interac
   - Geographical Expansion: High sales in a few countries indicate a concentrated market—exploring new regions could unlock untapped opportunities.
 
   - Operational Efficiency: While most orders are shipped successfully, a small percentage of cancellations & disputes suggests a need for process improvements in logistics and customer service.
+
+## Data Story :
+The auto sales analysis uncovers key trends from 2,748 transactions, highlighting seasonal sales patterns, top-performing product lines like Motorcycles, and customer purchasing behaviors based on deal size and order frequency. Regional analysis identifies high-demand markets, while order status tracking helps optimize fulfillment efficiency. These insights enable data-driven decisions for inventory management, targeted marketing, and improved logistics, ultimately enhancing sales performance and customer satisfaction.
+
  
   ## Dashboard :
   <img src="./Toy Dash.png" width="3000" height="600"/>&nbsp;
